@@ -1,0 +1,5 @@
+*.bak
+*.dat
+map.*.dat
+reduce
+boxplot.gp
